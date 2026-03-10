@@ -12,7 +12,7 @@ menuIcon.addEventListener("click", function () {
         navMenu.style.flexDirection = "column";
         navMenu.style.backgroundColor = "yellow";
         navMenu.style.padding = "70px";
-        navMenu.style.color = "black"
+        menuIcon.style.color = "black"
         social.style.display ="flex";
         social.style.flexDirection = "row";
         social.style.paddingTop = "405px";
@@ -20,3 +20,4 @@ menuIcon.addEventListener("click", function () {
 
 
 });
+
